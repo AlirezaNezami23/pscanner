@@ -1,0 +1,13 @@
+# Binaries
+pscanner
+*.exe
+*.out
+*.test
+
+# Build folders
+bin/
+build/
+
+# Editors
+.vscode/
+.idea/
