@@ -4,7 +4,7 @@ Fast TCP port scanner in Go.
 
 ## Install
 ```bash
-go install -v github.com/YOUR_GH_USERNAME/pscanner/cmd/pscanner@latest
+go install -v github.com/AlirezaNezami23/pscanner/cmd/pscanner@latest
 ```
 
 ## Usage
