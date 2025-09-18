@@ -80,7 +80,7 @@ func main() {
 	)
 
 	// Custom help output
-	flag.usage = func() {}
+
 	flag.Usage = func() {
 		fmt.Fprintf(flag.CommandLine.Output(), `
 pscanner - Fast TCP port scanner
